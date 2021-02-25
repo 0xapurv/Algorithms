@@ -1,6 +1,6 @@
 /*
 * Time Complexity ~ O(2^n)
-* Top to Bottom Approach
+* Top to Down Approach
 */
 
 #include<bits/stdc++.h>
